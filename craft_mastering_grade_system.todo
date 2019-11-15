@@ -1,4 +1,4 @@
-Развивающиеся характеристики уровней:
+Developing level stats system:
 
    ≡ Mental (Knowledge, Models, Idea, Concepts)
      Количество отдельных знаний, их связанность, развитость ментальных моделей, способность к синтезу
@@ -33,7 +33,7 @@
      ≡ ■ ■ ■ ■ ■ - способен полностью запустить процесс с нуля
 
 
-Балансируемые характеристики уровней:
+Balancing level stats system:
 
    ≡ Focused/Holistic □ □ □ □ □
      Частное/общее видение - относится к Mental
@@ -60,7 +60,7 @@
      ≡ ■ ■ ■ ■ ■ - полностью следует интуиции
 
 
-Описания уровней овладения профессиональной областью со значением их характеристик:
+Levels description and stats:
   
  ≡ Novice (Neophyte, Greenhorn)
    ≡ Пул кандидатов для перехода на следующий уровень
@@ -135,5 +135,12 @@
    ≡ Involved/Detached ■ ■ ■ ■ ■
 
 
+Levels - Codewars Honors Map:
+
+   ≡ Neophyte = 8-7 kyu
+   ≡ Apprentice = 6-1 kyu
+   ≡ Journeyman = 1-2 dan
+   ≡ Master = 3-8 dan
+   ≡ Ninja = turn over the world
 
 
